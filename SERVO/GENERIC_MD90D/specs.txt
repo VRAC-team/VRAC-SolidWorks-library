@@ -1,0 +1,4 @@
+metal-gears
+2.5kgcm
+6V
+110deg
